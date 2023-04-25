@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
-    "lint": "eslint .",
-    "build": "babel src -d dist"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
